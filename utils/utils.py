@@ -81,7 +81,7 @@ def get_reform_numbers(operations) -> list[dict]:
 
 def get_executed(operations):
     """
-    Выбирает только пройденные операции
+    Выбирает только прошедшие операции
     :param operations: операции
     :return: пройденные операции
     """
